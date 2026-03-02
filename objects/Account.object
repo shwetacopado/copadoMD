@@ -283,6 +283,17 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Externalid__c</fullName>
+        <externalId>true</externalId>
+        <label>Externalid</label>
+        <length>18</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Fax</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
