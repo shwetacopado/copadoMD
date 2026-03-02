@@ -358,6 +358,14 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Test1__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Test1</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
